@@ -17,9 +17,9 @@
     font-family: Arial, sans-serif;
     margin: 0;
 }
-.container {
-    width: 100%;
-    max-width: 420px;
+.login-container {
+    width: 80%;
+    max-width: 380px;
     background: white;
     border-radius: 15px;
     padding: 2rem;
@@ -40,7 +40,7 @@
     transition: transform 0.3s ease;
 }
 
-.logo-img hover {
+.logo-img:hover {
     transform: scale(1.05);
 }
 .input-group {
@@ -103,7 +103,7 @@
      
 </head>
 <body>
-    <div class="container">
+    <div class="login-container">
         <div class="logo">
             <a href="/Rachel/Pawhub/index.php" class="group flex items-center gap-5">
         <img src="/Rachel/Pawhub/images/logo3.png" alt="Pawhub Logo" class="h-24 w-auto group-hover:scale-110 transition duration-300"></a>
@@ -114,12 +114,12 @@
         </div>
         <div class="input-group">
             <label>Password</label>
-            <input type="password" placeholder="●●●●●●●●●●●●●●●●●●●●●●●●●●">
+            <input type="password" placeholder="Enter your password">
         </div>
-        <a href="#" class="login-btn">Login</a>
+        <a href="/Rachel/Pawhub/index.php" class="login-btn">Login</a>
         <div class="footer">
-            <a href="#">Register</a>
-            <a href="#">Forgot Password?</a>
+            <a href="/Rachel/Pawhub/register.php">Register</a>
+            <a href="/Rachel/Pawhub/forgot-password.php">Forgot Password?</a>
         </div>
     </div>
 </body>

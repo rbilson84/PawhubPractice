@@ -32,14 +32,15 @@
       <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
       <div class="flex items-center gap-2 lg:order-2">
-        <a href="/" class="rounded-lg border-2 border-white px-4 py-2 text-sm font-medium text-white hover:bg-gray-700">
+        
+      <!--<a href="/" class="rounded-lg border-2 border-white px-4 py-2 text-sm font-medium text-white hover:bg-gray-700">
           🌙
-        </a>
+        </a>-->
 
         <a href="/Rachel/Pawhub/login.php" class="rounded-lg border-2 border-white px-4 py-2 text-sm font-medium text-white hover:bg-gray-700">
           Log In
         </a>
-        <a href="/login.php" class="rounded-lg border-2 border-white px-4 py-2 text-sm font-medium text-white hover:bg-gray-700">
+        <a href="/Rachel/Pawhub/register.php" class="rounded-lg border-2 border-white px-4 py-2 text-sm font-medium text-white hover:bg-gray-700">
           Register
         </a>
       </div>

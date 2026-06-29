@@ -47,7 +47,7 @@
             <!--Grid-->
             <div class="py-7 border-t border-gray-700">
                 <div class="flex items-center justify-center">
-                    <span class="text-gray-400 ">©<a href="https://pagedone.io/">PawHub</a>2024, All rights reserved.</span>
+                    <span class="text-gray-400 ">©<a href="https://pagedone.io/">PawHub</a>2026, All rights reserved.</span>
                 </div>
             </div>
         </div>
